@@ -1,1 +1,1 @@
-# myTestProject. .
+# myTestProject.
